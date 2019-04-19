@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Equipos";
+}
+<br />
+<br />
+@if (ViewBag.Elementos != null)
+
+{
+    <h2>Estampas del equipo @ViewBag.Elementos[0].Equipo</h2>
+    <table style="width:100%">
+        <tr>
+            <th>Código</th>
+            <th>Nombre Jugador</th>
+            <th>Tipo</th>
+            <th>Cantidad disponibles</th>
+
+        </tr>
+        @foreach (var item in ViewBag.Elementos)
+        {
+            if (item != null)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.NombreJ</td>
+                    @if (item.Especial == true)
+                    {
+                        <td>Especial</td>
+                    }
+                    else
+                    {
+                        <td>Común</td>
+                    }
+                    <td>@item.Cantidad</td>
+
+                </tr>
+            }
+        }
+    </table>
+    <br />
+    <br />
+
+
+}
+else
+{
+    <h2>El equipo no existe. </h2>
+}

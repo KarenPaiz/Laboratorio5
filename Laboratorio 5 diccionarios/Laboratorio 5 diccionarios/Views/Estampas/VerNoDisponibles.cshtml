@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "VerNoDisponibles";
+}
+
+<br />
+<br />
+<h2>Estampas del álbum faltantes</h2>
+<table style="width:100%">
+    <tr>
+        <th>Código</th>
+        <th>Nombre Jugador</th>
+        <th>Equipo</th>
+        <th>Tipo</th>
+    </tr>
+    @foreach (var item in ViewBag.Elementos)
+    {
+        if (item != null && item.Cantidad == 0)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.NombreJ</td>
+                <td>@item.Equipo</td>
+                @if (item.Especial == true)
+                {
+                    <td>Especial</td>
+                }
+                else
+                {
+                    <td>Común</td>}
+
+
+            </tr>
+        }
+    }
+</table>
+<br />
+<br />
+<form action="/Estampas/Actualizar2" method="post">
+    <input type="submit" value="Actualizar">
+</form>

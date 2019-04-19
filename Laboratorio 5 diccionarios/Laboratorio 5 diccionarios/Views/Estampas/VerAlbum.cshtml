@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "VerAlbum";
+}
+
+<br />
+<br />
+<h2>Estampas del álbum</h2>
+<table style="width:100%">
+    <tr>
+        <th>Código</th>
+        <th>Nombre Jugador</th>
+        <th>Equipo</th>
+        <th>Tipo</th>
+    </tr>
+    @foreach (var item in ViewBag.Elementos)
+    {
+        if (item != null)
+        {
+    <tr>
+        <td>@item.ID</td>
+        <td>@item.NombreJ</td>
+        <td>@item.Equipo</td>
+        @if(item.Especial == true)
+        {
+        <td>Especial</td>
+        }
+        else {
+        <td>Común</td>}
+
+
+    </tr>
+        }
+    }
+</table>
+<br />
+<br />
+
+<form action="/Estampas/VerDisponibles" method="post">
+    <input type="submit" value="Ver estampas disponibles">
+</form>
+<br />
+<form action="/Estampas/VerNoDisponibles" method="post">
+    <input type="submit" value="Ver estampas faltantes">
+</form>

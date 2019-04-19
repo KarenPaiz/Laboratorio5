@@ -1,0 +1,44 @@
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Laboratorio 5 diccionarios.dll.config
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Laboratorio 5 diccionarios.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Laboratorio 5 diccionarios.pdb
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Antlr3.Runtime.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Newtonsoft.Json.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.Helpers.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.Mvc.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.Optimization.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.Razor.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.WebPages.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.WebPages.Razor.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\WebGrease.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.Helpers.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.Mvc.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.Optimization.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.Razor.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.WebPages.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Web.WebPages.Razor.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Newtonsoft.Json.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Antlr3.Runtime.pdb
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\es\System.Web.Razor.resources.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\obj\Debug\Laboratorio 5 diccionarios.csprojAssemblyReference.cache
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\obj\Debug\Laboratorio 5 diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\obj\Debug\Laboratorio 5 diccionarios.csproj.CopyComplete
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\obj\Debug\Laboratorio 5 diccionarios.dll
+C:\Users\Karen\Desktop\Semestre III\Estructura de datos\Labotatorio\Laboratorio5\Laboratorio 5 diccionarios\Laboratorio 5 diccionarios\obj\Debug\Laboratorio 5 diccionarios.pdb

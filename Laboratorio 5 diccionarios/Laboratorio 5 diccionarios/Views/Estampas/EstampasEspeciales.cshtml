@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "EstampasEspeciales";
+}
+
+<br />
+<br />
+<h2>Estampas especiales</h2>
+<table style="width:100%">
+    <tr>
+        <th>Código</th>
+        <th>Nombre Jugador</th>
+        <th>Equipo</th>
+        <th>Cantidad disponibles</th>
+    </tr>
+    @foreach (var item in ViewBag.Elementos)
+    {
+        if (item != null && item.Especial == true)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.NombreJ</td>
+                <td>@item.Equipo</td>
+                <td>@item.Cantidad</td>
+                 
+            </tr>
+        }
+    }
+</table>
+<br />
+<br />
+
